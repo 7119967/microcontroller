@@ -1,0 +1,17 @@
+#Junk Files
+*.DS_Store
+[Tt]humbs.db
+
+#Local directories
+/Listing
+/Videos
+/Examples
+/Library
+/Lectures
+
+#Other
+.svn
+.idea
+*.db
+*.jpg
+*.rar
